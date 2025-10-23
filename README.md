@@ -1,4 +1,4 @@
 # Funyon
 Name: Noah Amman
 Project: Funyon
-https://github.com/xiigamebreaker/Funyon.git
+GitHub Repo URL: https://github.com/xiigamebreaker/Funyon.git
