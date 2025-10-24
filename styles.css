@@ -69,6 +69,10 @@ h2 {
     margin: 0 auto; /* center horizontally */
 }
 
+footer {
+    color: white;
+}
+
 /* ----------------------------------------------------------------------
    Responsive breakpoints
    - Adjust layout and visual rules for wider viewports
@@ -181,6 +185,7 @@ h2 {
     }
 
     footer {
+        color:#2D0320;
         text-align: center; /* center the footer text */
         border-top: 5px solid #2D0320; /* strong top border for separation */
     }
